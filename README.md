@@ -20,6 +20,13 @@ This collection is meticulously organized to provide you with a comprehensive un
 - **Overview**: This influential paper details the FastText model, an extension of the Word2Vec model incorporating subword information. It marks a significant advancement in handling rare words and understanding morphological nuances in various languages.
 - **Access Paper**: [Read Here](https://arxiv.org/pdf/1607.04606.pdf)
 
+## Must Watch 
+- The Sigmoid Function
+  - https://www.youtube.com/watch?v=TPqr8t919YM
+  - https://www.youtube.com/watch?v=Aj7O9qRNJPY
+- SoftMax
+  - https://www.youtube.com/watch?v=8ps_JEW42xs
+
 ## Stay Updated
 
 The field of NLP is continually evolving, and we aim to keep this collection up-to-date with the latest research and insights. Keep an eye on this space for more resources!

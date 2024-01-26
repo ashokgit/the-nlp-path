@@ -44,7 +44,10 @@ This collection is meticulously organized to provide you with a comprehensive un
   - https://www.youtube.com/watch?v=6ArSys5qHAU
   - https://www.youtube.com/watch?v=Pwgpl9mKars
   - 
-- 
+
+## Training FastText
+
+- https://github.com/PacktPublishing/fastText-Quick-Start-Guide/blob/master/chapter5/Training_visualizations.py
 
 ## Stay Updated
 

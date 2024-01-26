@@ -24,6 +24,10 @@ This collection is meticulously organized to provide you with a comprehensive un
 
 - [Paper](https://proceedings.neurips.cc/paper/1992/file/d86ea612dec96096c5e0fcc8dd42ab6d-Paper.pdf)
 
+## Nepali NLP Papers and Resources
+
+- NPVec1: Word Embeddings for Nepali - Construction and Evaluation [Paper](https://aclanthology.org/2021.repl4nlp-1.18.pdf)
+
 ## Must Watch 
 - n-grams
   - https://www.youtube.com/watch?v=E_mN90TYnlg

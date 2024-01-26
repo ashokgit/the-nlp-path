@@ -48,7 +48,8 @@ This collection is meticulously organized to provide you with a comprehensive un
   - https://www.youtube.com/watch?v=6hrnMvYcKVE
   - https://www.youtube.com/watch?v=6ArSys5qHAU
   - https://www.youtube.com/watch?v=Pwgpl9mKars
-  - 
+- Embeddings: What they are and why they matter
+  - https://www.youtube.com/watch?v=ArnMdc-ICCM
 
 ## Training FastText
 

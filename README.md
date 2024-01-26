@@ -20,6 +20,11 @@ This collection is meticulously organized to provide you with a comprehensive un
 - **Overview**: This influential paper details the FastText model, an extension of the Word2Vec model incorporating subword information. It marks a significant advancement in handling rare words and understanding morphological nuances in various languages.
 - **Access Paper**: [Read Here](https://arxiv.org/pdf/1607.04606.pdf)
 
+### Deep contextualized word representations : 2018, ELMo Embdeddings
+
+- [Read Paper](https://arxiv.org/abs/1802.05365)
+- [Watch Semantic Search using EMLo Embeddigns](https://www.youtube.com/watch?v=Lvv4n5_Jjj0)
+
 ### Word Space
 
 - [Paper](https://proceedings.neurips.cc/paper/1992/file/d86ea612dec96096c5e0fcc8dd42ab6d-Paper.pdf)

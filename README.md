@@ -24,6 +24,7 @@ This collection is meticulously organized to provide you with a comprehensive un
 
 - [Read Paper](https://arxiv.org/abs/1802.05365)
 - [Watch Semantic Search using EMLo Embeddigns](https://www.youtube.com/watch?v=Lvv4n5_Jjj0)
+- https://www.youtube.com/watch?v=9JfGxKkmBc0
 
 ### Word Space
 

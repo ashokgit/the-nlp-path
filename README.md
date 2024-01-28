@@ -51,6 +51,8 @@ This collection is meticulously organized to provide you with a comprehensive un
   - https://www.youtube.com/watch?v=Pwgpl9mKars
 - Embeddings: What they are and why they matter
   - https://www.youtube.com/watch?v=ArnMdc-ICCM
+- Embeddings for Everything: Search in the Neural Network Era
+  - https://www.youtube.com/watch?v=JGHVJXP9NHw
 
 ## Training FastText
 
